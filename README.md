@@ -1,6 +1,7 @@
 ## HI this is for PONY TOWN
 
 I'm gonna put this up here...ok?
+
 NO taking inspirations from my ponies. Copying is also prohibited.
 
 I'm Hachi! PLEASE whisper to int, since im often offtab, especially when im alone.
