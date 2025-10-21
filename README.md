@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/1062717625764950068/1429119002097221672/Untitled1596_20251018224807.png?ex=68f4fa49&is=68f3a8c9&hm=9b0a7d8208f0674bc76b85d2ff4247f11457d5706b129fd68ee3d2a6dfe48db3&)
+![](https://cdn.discordapp.com/attachments/1062717625764950068/1430144081782243439/Untitled1596_20251021184134.png?ex=68f8b4f7&is=68f76377&hm=e060bd96774f6cb3b1fa06df91678e344f9b3e442f6952d5e6cdeb384d7a2967&) 
 
 <p align="center">hachi⠀⠀u.u⠀⠀any prns</p>
 
