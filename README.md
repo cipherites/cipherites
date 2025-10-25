@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/voxval-blue
-" alt="vox">
-</p>
+
 ⠀
 ⠀
 <p align="center">
