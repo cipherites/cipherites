@@ -3,5 +3,5 @@
 ⠀
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1431540172968824943/IMG_20251025_150924.jpg?ex=68fdc92d&is=68fc77ad&hm=02556a5814867372d87b16a9829c77d77b7bcdc8c272a8f6894fadb765c0356d&" alt="Logo" width="300">
+  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1431540535125999726/20251025_145939.jpg?ex=68fdc984&is=68fc7804&hm=7e1ecab938a5291fb8b38e9d3ddcad5819710fa040da49e0c5f143805ad7f90f&" alt="Logo" width="300">
 </p>
