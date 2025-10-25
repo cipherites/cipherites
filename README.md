@@ -1,8 +1,4 @@
-⠀ <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cipherites&label=Profile%20views&color=0e75b6&style=plastic" alt="profile views" />
-</p>
-⠀
-⠀
+
 ⠀
 <p align="center">
 <a href="https://rentry.co/cipherites">
