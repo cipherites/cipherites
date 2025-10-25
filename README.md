@@ -1,12 +1,7 @@
 
 ⠀
 ⠀
-<p align="center">
-  <a href="https://rentry.co/cipherites">rentry</a> ⠀⠀  ⠀⠀
-  <a href="https://cipherites.straw.page/">strawp</a>
-</p>
-
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1429108408224845875/vxvl.png?ex=68fd822c&is=68fc30ac&hm=291afad85ce7af300a0f42e8fb9c6cdb62e9adf141ea3ff613d4fa2abd837e6d&" alt="Logo" width="300">
+  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1431540172968824943/IMG_20251025_150924.jpg?ex=68fdc92d&is=68fc77ad&hm=02556a5814867372d87b16a9829c77d77b7bcdc8c272a8f6894fadb765c0356d&" alt="Logo" width="300">
 </p>
