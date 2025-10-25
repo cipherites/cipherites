@@ -8,6 +8,6 @@
 </p>
   
 <p align="center">
-<a href="https://rentry.co/cipherites">
+<a href="https://cipherites.straw.page/">
   <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1431545835375824896/IMG_20251025_153146.jpg?ex=68fdce73&is=68fc7cf3&hm=142d331492c71fafd695604ff0e83adfcf69e39e990daaa850f370b44202785d&" alt="Demo" width="70">
 </a>
