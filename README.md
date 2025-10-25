@@ -1,5 +1,4 @@
 ⠀
-⠀
 <p align="center">
 <a href="https://rentry.co/cipherites">
   <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1431545835035820053/IMG_20251025_153135.jpg?ex=68fdce73&is=68fc7cf3&hm=35d5b4ee6ffbc295102f8f8708f45798a0674d5cecd167c9f701333ff00c725b&" alt="Demo" width="40">
