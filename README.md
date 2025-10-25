@@ -5,5 +5,5 @@
 
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1431527514374672426/Untitled1604_20251025141827.png?ex=68fdbd63&is=68fc6be3&hm=d2d449e3ef8e8dadff0579e9ab80beeb7584217c3c1f2fd19798f6bf6027dbf0&" alt="Logo" width="300">
+  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1429108408224845875/vxvl.png?ex=68fd822c&is=68fc30ac&hm=291afad85ce7af300a0f42e8fb9c6cdb62e9adf141ea3ff613d4fa2abd837e6d&" alt="Logo" width="300">
 </p>
