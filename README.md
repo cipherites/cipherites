@@ -4,5 +4,5 @@
 </a>
 <p align="center">
 <a href="https://rentry.co/cipherites">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1431545453840699453/Untitled1609_20251025152339.png?ex=68fdce19&is=68fc7c99&hm=e8a517b4e954116cbd80ef54837de61aed131375f28f3e0a55c3cab65915c2fb&" alt="Demo" width="40">
+  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1431545453840699453/Untitled1609_20251025152339.png?ex=68fdce19&is=68fc7c99&hm=e8a517b4e954116cbd80ef54837de61aed131375f28f3e0a55c3cab65915c2fb&" alt="Demo" width="60">
 </a>
