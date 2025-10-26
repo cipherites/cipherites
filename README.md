@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://x.com/wawanomi/status/1895801104086220877?t=60aFQ6RIpuZpKTUzY7Rsgw&s=19">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1431549883268988979/Untitled1611_20251025154632.png?ex=68fdd239&is=68fc80b9&hm=ec90d0329b50fb70df96f2fef44fb425b4bd86e9133df5a714a9cf6b72f46b85&" alt="Demo" width="100">
+  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1431545835375824896/IMG_20251025_153146.jpg?ex=68ff1ff3&is=68fdce73&hm=fc4375a81b3866a52c4bd55e719db538e3a6f1cba0ef89ef70dd989adc07bfda&" alt="Demo" width="100">
 </a>
   
 <p align="center">
