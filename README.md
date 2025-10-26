@@ -2,7 +2,7 @@
 ⠀
 <p align="center">
 <a href="https://rentry.co/cipherites">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1431865345127223346/IMG_20251026_124100.jpg?ex=68fef805&is=68fda685&hm=4001a84768840d9b342acfbc535d00ce39f3c7c5954f9bc674887d73180daf67&" alt="Demo" width="40">
+  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1431545835035820053/IMG_20251025_153135.jpg?ex=68fe7733&is=68fd25b3&hm=d450ce0495f8bf54705020e71b042693b5bbf2d8ca94448c858e71a8ffb2aa0f&" alt="Demo" width="40">
 </a>
 
 <p align="center">
@@ -12,7 +12,7 @@
   
 <p align="center">
 <a href="https://cipherites.straw.page/">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1431864280252289165/IMG_20251026_123558.jpg?ex=68fef707&is=68fda587&hm=19c91e111e69f93d723823a39cbdfc2e91e31127114d449c96d6a77edb343f7e&" alt="Demo" width="70">
+  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1431545835375824896/IMG_20251025_153146.jpg?ex=68fe7733&is=68fd25b3&hm=014bfe26b3a36cba8224c678fb3b271bf669a6b44ec90e835f071c7f9ae8dc44&" alt="Demo" width="70">
 </a>
 
 ⠀
