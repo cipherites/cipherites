@@ -2,7 +2,7 @@
 ⠀
 <p align="center">
 <a href="https://rentry.co/cipherites">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1431864280717852814/IMG_20251026_123706.jpg?ex=68fef707&is=68fda587&hm=52b1ef11e0d6ca380b2d789da544b22b7d072314026be8c49bd2b0a73a0869aa&" alt="Demo" width="40">
+  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1431865345127223346/IMG_20251026_124100.jpg?ex=68fef805&is=68fda685&hm=4001a84768840d9b342acfbc535d00ce39f3c7c5954f9bc674887d73180daf67&" alt="Demo" width="40">
 </a>
 
 <p align="center">
