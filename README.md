@@ -6,8 +6,8 @@
 </a>
 
 <p align="center">
-<a href="https://x.com/wawanomi/status/1895801104086220877?t=60aFQ6RIpuZpKTUzY7Rsgw&s=19">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1431549883268988979/Untitled1611_20251025154632.png?ex=68ff23b9&is=68fdd239&hm=d527bc3b53a5e370a5339391d36134ceb44e8474b14fa8494282dcd23221e6fb&" alt="Demo" width="100">
+<a href="https://embed.tumblr.com/embed/post/t:1ttrqRAa_1FifsH5pFjU1w/774356974734327808/v2">
+  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1432001420189761657/Untitled1615_20251026214157.png?ex=68ff76bf&is=68fe253f&hm=2404f6d0b57f42b448622050ebd7ec3a282adfed87e5c3f27d09c3c73eb48733&" alt="Demo" width="100">
 </a>
   
 <p align="center">
