@@ -16,3 +16,4 @@
 </a>
 
 ⠀
+<p align="center"> view in dark mode. or if you're lazy, rentry is on the top, strawpage is on the bottom
