@@ -12,7 +12,7 @@
   
 <p align="center">
 <a href="https://cipherites.straw.page/">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1431915815426592850/Untitled1613_20251026160129.png?ex=68ff2706&is=68fdd586&hm=bb5d2e587b9ddbd69101890018dc442804cfa4266241fa010e2ff88fc0d921bb&" alt="Demo" width="70">
+  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1431545835375824896/IMG_20251025_153146.jpg?ex=68ff1ff3&is=68fdce73&hm=fc4375a81b3866a52c4bd55e719db538e3a6f1cba0ef89ef70dd989adc07bfda&" alt="Demo" width="70">
 </a>
 
 ⠀
