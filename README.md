@@ -10,9 +10,6 @@
 </a>
   
 <p align="center">
-<a href="https://cipherites.straw.page/">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1431545835375824896/IMG_20251025_153146.jpg?ex=68ff1ff3&is=68fdce73&hm=fc4375a81b3866a52c4bd55e719db538e3a6f1cba0ef89ef70dd989adc07bfda&" alt="Demo" width="70">
-</a>
-
+  <a href="https://cipherites.straw.page">strawpage</a>
+</p>
 ⠀
-<p align="center"> view on dark mode. or if you're lazy, rentry is on the top, strawpage is on the bottom
