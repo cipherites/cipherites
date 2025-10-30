@@ -1,8 +1,6 @@
 
 ⠀
-<p align="center">
-  <a href="https://rentry.co/cipherites">rentry</a>
-</p>
+
 
 <p align="center">
 <a href="https://x.com/XcbQCWTn2ez1bbD/status/1769203594723774666?t=lYhTF7-YJN6ooCRMA08NOg&s=19">
@@ -10,6 +8,7 @@
 </a>
   
 <p align="center">
-  <a href="https://cipherites.straw.page">strawpage</a>
+  <a href="https://rentry.co/cipherites">𝗿𝗲𝗻𝘁𝗿𝘆</a> ⠀⠀⠀⠀
+  <a href="https://cipherites.straw.page/">𝘀𝘁𝗿𝗮𝘄𝗽𝗮𝗴𝗲</a>
 </p>
 ⠀
