@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-<a href="https://embed.tumblr.com/embed/post/t:1ttrqRAa_1FifsH5pFjU1w/774356974734327808/v2">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1432001420189761657/Untitled1615_20251026214157.png?ex=68ff76bf&is=68fe253f&hm=2404f6d0b57f42b448622050ebd7ec3a282adfed87e5c3f27d09c3c73eb48733&" alt="Demo" width="200">
+<a href="https://x.com/XcbQCWTn2ez1bbD/status/1769203594723774666?t=lYhTF7-YJN6ooCRMA08NOg&s=19">
+  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1433323907905228953/Untitled1623_20251030131702.png?ex=69044669&is=6902f4e9&hm=3a9ce9aaa1327c702ad5c307e595862fd7a67935da6fcc6799bb7464c5b7c3dc&" alt="Demo" width="200">
 </a>
   
 <p align="center">
