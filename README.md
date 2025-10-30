@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hits.sh/github.com/cipherites.svg?style=for-the-badge&label=♡&color=EB253B&labelColor=2f2f2f" />
+  <img src="https://hits.sh/github.com/kibubuebu/my-awesome-repo.svg?label=♡&color=EB253B&labelColor=2f2f2f&style=for-the-badge" />
 </p>
 ⠀
 
