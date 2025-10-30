@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcipherites&count_bg=%23EB253B&title_bg=%232C2C2C&icon=heart.svg&icon_color=%23FFFFFF&title=%E2%99%A1&edge_flat=true" alt="♡ View Count"/>
+  <img src="https://img.shields.io/badge/%E2%99%A1-burp-%23EB253B?style=flat&labelColor=2C2C2C" alt="View Count">
 </p>
 ⠀
 
