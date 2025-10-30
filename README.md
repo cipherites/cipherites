@@ -1,6 +1,4 @@
-<p align="center">
-  ![View Count](https://img.shields.io/badge/%E2%99%A1-16613-%23EB253B?style=for-the-badge&labelColor=2C2C2C)
-</p>
+
 ⠀
 
 
