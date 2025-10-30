@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%99%A1-16613-%23EB253B?style=flat&labelColor=2C2C2C" alt="View Count">
+  <img src="https://img.shields.io/badge/%E2%99%A1-burp-%23EB253B?style=flat&labelColor=2C2C2C" alt="View Count">
 </p>
 ⠀
 
