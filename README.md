@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://hits.sh/github.com/cipherites.svg?style=for-the-badge&label=%5E_%5E&labelColor=2f2f2f&color=1a1a1a" />
+</p>
 ⠀
 
 
