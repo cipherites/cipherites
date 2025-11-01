@@ -5,13 +5,12 @@
 </p>
 
 <p align="center">
-<a href="https://rentry.co/cipherites">
+<a href="https://x.com/XcbQCWTn2ez1bbD/status/1822657537868734819?t=12uL5D6nhgyN0zuamKeqMA&s=19">
   <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1433444257108197487/Untitled1626_20251030211205.png?ex=6904b67f&is=690364ff&hm=f64bd7d1cdd90a1d35bdc4e392dd00b202f6191f1d293bc934cf77503e91ced6&" alt="Demo" width="40">
 <p align="center"> read ⠀⠀rentry ⠀⠀byi
 <p align="center">
-</a>
-<img src="https://cdn.discordapp.com/attachments/1062717625764950068/1433334773496938596/Untitled1625_20251030140029.png?ex=69045088&is=6902ff08&hm=248a845108a654709560dcb1fcbda1b447e5e3bf6e04217820782c840ad0f504&" alt="Demo" width="200">
-</a>
+<a href="https://rentry.co/cipherites">
+  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1433972345047089293/Untitled1630_20251101081352.png?ex=6906a250&is=690550d0&hm=fa4885683f5c4973b74188d95b8bd42323f40c8334421024d630f8bd7f62e95a&" alt="Demo" width="200">
 
 <p align="center">
 <a href="https://cipherites.straw.page/">
