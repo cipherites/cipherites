@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://x.com/XcbQCWTn2ez1bbD/status/1822657537868734819?t=12uL5D6nhgyN0zuamKeqMA&s=19">
+<a href="https://rentry.co/cipherites">
   <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1433444257108197487/Untitled1626_20251030211205.png?ex=6904b67f&is=690364ff&hm=f64bd7d1cdd90a1d35bdc4e392dd00b202f6191f1d293bc934cf77503e91ced6&" alt="Demo" width="40">
 <p align="center"> read ⠀⠀rentry ⠀⠀byi
 <p align="center">
