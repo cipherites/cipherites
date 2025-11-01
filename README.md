@@ -9,8 +9,7 @@
   <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1433444257108197487/Untitled1626_20251030211205.png?ex=6904b67f&is=690364ff&hm=f64bd7d1cdd90a1d35bdc4e392dd00b202f6191f1d293bc934cf77503e91ced6&" alt="Demo" width="40">
 <p align="center"> read ⠀⠀rentry ⠀⠀byi
 <p align="center">
-<a href="https://rentry.co/cipherites">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1433972345047089293/Untitled1630_20251101081352.png?ex=6906a250&is=690550d0&hm=fa4885683f5c4973b74188d95b8bd42323f40c8334421024d630f8bd7f62e95a&" alt="Demo" width="200">
+  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1433334773496938596/Untitled1625_20251030140029.png?ex=69064ac8&is=6904f948&hm=6442429f7e0c4662409ef789b6d3b680ba2d12447d4e2a1c4b22767ba270d335&" alt="Demo" width="200">
 
 <p align="center">
 <a href="https://cipherites.straw.page/">
