@@ -15,3 +15,12 @@
 <a href="https://cipherites.straw.page/">
   <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1433444257594609786/Untitled1627_20251030211230.png?ex=6904b67f&is=690364ff&hm=65d78b1ec242b63ce7eaed51db430869caef2152114780122b2b0841f1f24a61&" alt="Demo" width="67">
 </a>
+⠀
+<p align="center"> check out my atabook collection haha
+  
+<p align="center">
+  <a href="https://staticmoth.atabook.org">staticmoth</a> •
+  <a href="https://funnybunny.atabook.org">funnybunny</a> •
+  <a href="https://billford.atabook.org">billford</a> •
+  <a href="https://cipher.atabook.org">cipher</a>
+</p>
