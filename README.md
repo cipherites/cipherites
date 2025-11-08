@@ -4,7 +4,7 @@
 
 ⠀
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1435868997664112681/20250604_145806-Photoroom.png?ex=690d88b6&is=690c3736&hm=c9259ecfed56052902cbfb18caea66b8d3bb344008ebf9b03d9d3a501a44d965&" alt="vxvl" width="100">
+  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1436866386403004486/Tribbie_Render2_Hoyo-transparents.png?ex=6911299a&is=690fd81a&hm=6db1cbd8ec0aa787f1e9f6b998d3e0cde2e4ba1dc858bcebd54829ed3b67e191&" alt="vxvl" width="100">
 </p>
 ⠀
 <p align="center"> read ⠀⠀rentry ⠀⠀byi
