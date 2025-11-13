@@ -2,7 +2,7 @@
 
 <p align="center">interact with extreme caution
 <p align="center">
-  <img src="https://jumpshare.com/s/rLRIZAV8jxKZ4kaOCt0L" alt="vxvl" width="200">
+  <img src="https://x.com/cipherites/status/1988896040657834262?t=-AWuFrH1RQ5QCoSM-fd0pQ&s=19" alt="vxvl" width="200">
 </p>
 <p align="center"> read ⠀⠀rentry ⠀⠀byi
 
