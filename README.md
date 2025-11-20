@@ -1,16 +1,5 @@
-⠀
-
-<p align="center">interact with extreme caution
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1439801899481301234/605be17d884aa7e418b10b7db00bb0bd.gif?ex=691bd783&is=691a8603&hm=e94677718485c2c929ebaca7583771fd22e4a9db797823a0b74f2351605820d6&" alt="vxvl" width="200">
+  <a href="https://cdn.discordapp.com/attachments/1062717625764950068/1440910531593506816/IMG_20251120_114348.jpg?ex=691fe001&is=691e8e81&hm=36aa3cb5aa4c2a0dc5e9476a5266e75804405fb84177af103e3260517bbfce4c&">
+    <img src="https://x.com/goodtsuchi/status/1812457452668924090?t=BZQEVzdMddsQbfO0ujo4og&s=19" alt="" width="300">
+  </a>
 </p>
-<p align="center"> read ⠀⠀rentry ⠀⠀byi
-
-<p align="center">
-  <a href="https://rentry.co/cipherites">rentry</a> ⠀
-  <a href="https://cipherites.straw.page/">strawpage</a>
-</p>
-
-⠀
-⠀
-⠀
