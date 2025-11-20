@@ -7,7 +7,4 @@
   <a href="https://cipher.atabook.org">ata</a> ⠀
   <a href="https://cipherites.straw.page/">strawp</a>
 </p>
-
-⠀
-⠀
 ⠀
