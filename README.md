@@ -8,4 +8,4 @@
   <a href="https://cipherites.straw.page/">strawp</a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+<p align="center">![](https://komarev.com/ghpvc/?username=cipherites&color=white)
