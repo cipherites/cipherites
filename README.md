@@ -1,6 +1,6 @@
 <p align="center">
-
-![](https://komarev.com/ghpvc/?username=cipherites&label=♡&color=lightgrey)
+  <img src="https://komarev.com/ghpvc/?username=cipherites&label=♡&color=lightgrey" alt="Profile Views" />
+</p>
 
 <p align="center">
   <a href="https://x.com/Daegallia11/status/1991132165669617719?t=XDHOUzLFC2yrmgOA62WOXw&s=19">
