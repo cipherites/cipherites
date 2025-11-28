@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1443954643142049933/shadow-milk-cookie-cookie-run-kingdom.gif?ex=692af30e&is=6929a18e&hm=d019714643a52d1e892d43b4f752e21c858cb7fa1ac4f79220c6e1bfee9075e4&" alt="Banner" width="200">
+  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1443948331180097677/shadow-milk-cookie.gif?ex=692aed2d&is=69299bad&hm=aab6fa5d14219b370152c21f56668846fb949647e33c2bd2ab42c464fea86b41&" alt="Banner" width="250">
   </a>
 </p>
 <p align="center">
