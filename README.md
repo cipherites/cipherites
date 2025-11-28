@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/QWJDHE7897/status/1993389794450456691?t=9y12J8e4dkwKEfOgaRr-5w&s=19">
-    <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1443237061774672022/20251126_213424.jpg?ex=692856c1&is=69270541&hm=cb63b3a46f0020d6d8f59ea2d56f59c08aeb5b691358f42c5a88cedba370aa0b&" alt="" width="200">
+  <a href="https://x.com/vVaVoVev/status/1992675849037128096?t=-Y_IcnjyD2BXhIm26UD5zA&s=19">
+    <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1443826966661693553/Untitled1680_20251128125244.png?ex=692a7c25&is=69292aa5&hm=3cf1fe6ab5a598ebe76273dffe94db4f0ca232b7f48f962839ab9b14d05ed08d&" alt="" width="200">
   </a>
 </p>
 <p align="center">
