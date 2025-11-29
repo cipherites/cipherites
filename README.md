@@ -9,6 +9,6 @@
 </p>
 <p align="center">
   <a href="https://cipher.atabook.org">ata</a> ⠀
-  <a href="https://cipherites.straw.page/">strawp</a>
+  <a href="https://cipherites.straw.page/">strawp</a>⠀⠀
   <a href="https://rentry.co/cipherites/">rentry</a>
 </p>
