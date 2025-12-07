@@ -4,13 +4,9 @@
 
 
 <p align="center"> BestfriEND
-
 <p align="center"> BoyfriEND
-
 <p align="center"> GirlfriEND
-
 <p align="center"> It all ends. 
-
 <p align="center"> You know what doesn't ends? 
 
 <p align="center"> VOXVAL ❤‍🩹🧡💛💚💙💜🏳️‍🌈📺🦋
