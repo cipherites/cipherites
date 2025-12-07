@@ -10,7 +10,7 @@
 
 <p align="center"> VOXVAL ❤‍🩹🧡💛💚💙💜🏳️‍🌈📺🦋
 
-sign ata if you cried
+<p align="center"> sign ata if you cried
 
 
 
