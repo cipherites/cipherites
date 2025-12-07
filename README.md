@@ -1,16 +1,16 @@
 <p align="center"> BestfriEND
 
-BoyfriEND
+<p align="center"> BoyfriEND
 
-GirlfriEND
+<p align="center"> GirlfriEND
 
-It all ends. 
+<p align="center"> It all ends. 
 
-You know what doesn't ends? 
+<p align="center"> You know what doesn't ends? 
 
-VOXVAL ❤‍🩹🧡💛💚💙💜🏳️‍🌈📺🦋
+<p align="center"> VOXVAL ❤‍🩹🧡💛💚💙💜🏳️‍🌈📺🦋
 
-rt if you cried
+sign ata if you cried
 
 
 
