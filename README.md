@@ -3,5 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1447108326734299237/lv_0_20251207140919.gif?ex=69366c27&is=69351aa7&hm=9cf56eb9831d18225ef6f774a4245a515995089e55ec3de5b87aeb1ee0b50b1d&" width="200" alt="">
+  <a href="https://x.com/QWJDHE7897/status/1993389794450456691?t=E9gmfeq-AWpYkX5My5drSA&s=19">
+    <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1443237061774672022/20251126_213424.jpg?ex=69362e81&is=6934dd01&hm=6aacd6ec581d6679d3dfba249643eb6b3be1ba42ebdc101714b2847ca29457e1&" width="200" alt="">
+  </a>
 </p>
