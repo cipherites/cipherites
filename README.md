@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/GasuGuma/status/1648712937962610689?t=r3KDK7GwEbwIzgksCqfMyw&s=19">
-    <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1447114897480613978/IMG_20251207_143750.jpg?ex=69367245&is=693520c5&hm=d2a4de5d00240b32cb0c08dca336d262647f83d81a3b8d4a688af161cab3754a&" width="200" alt="">
-  </a>
+  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1444605046913368104/Untitled1688_20251130162219.png?ex=692d50ca&is=692bff4a&hm=b9b604f6892b728c15fa367c1ff2e8a36900627f768ad66e2d3479d6a81255aa&" alt="" width="150">
+</p>
+<p align="center">
+  <a href="https://cipherites.straw.page/">strawp</a> ⠀
+  <a href="https://cipher.atabook.org">ata</a> ⠀
+  <a href="https://rentry.co/cipherites/">rentry</a>
 </p>
