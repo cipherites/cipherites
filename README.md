@@ -4,7 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1444605046913368104/Untitled1688_20251130162219.png?ex=692d50ca&is=692bff4a&hm=b9b604f6892b728c15fa367c1ff2e8a36900627f768ad66e2d3479d6a81255aa&" alt="" width="150">
+  <a href="https://x.com/i/status/1830248111895433435">
+    <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1448898518507982980/IMG_20251212_124503.jpg?ex=693cef66&is=693b9de6&hm=4b4a0e9a766271371c11e6ba75f85a60975f4523d6aa93add827d53dec55a47f&" width="200" alt="">
+  </a>
 </p>
 <p align="center">
   <a href="https://cipherites.straw.page/">strawp</a> ⠀
