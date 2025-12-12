@@ -8,6 +8,6 @@
 </p>
 <p align="center">
   <a href="https://cipher.atabook.org">
-    <img src="https://img.shields.io/badge/ata-lightgrey" alt="" />
+    <img src="https://img.shields.io/badge/ata-book%20-lightgrey" alt="" />
   </a>
 </p>
