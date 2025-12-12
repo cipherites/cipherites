@@ -2,7 +2,7 @@
   <a href="https://cipher.atabook.org">
     <img src="https://img.shields.io/badge/ata-book%20-lightgrey" alt="" />
   </a>
-⠀♡⠀
+⠀★⠀
   <img src="https://komarev.com/ghpvc/?username=cipherites&label=♡&color=000000" alt="" />
 </p>
 
