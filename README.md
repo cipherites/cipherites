@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1455501331723845734/Untitled1727_20251230170027.png?ex=69559d7f&is=69544bff&hm=8fb2bc5bf0f392db331beb6952ed862fbc67e10713dac8228a1e8df273f2cfc5&" alt="" width="250">
+  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1455773831594639401/Untitled1727_20251230170027.png?ex=6955f288&is=6954a108&hm=6beaed09851cc8c0dbfaa8cabbd24e798c6fc49a0ee23042367d7e10124e0710&" alt="" width="250">
 </p>
 <p align="center">
   <a href="https://cipher.atabook.org">
-    <img src="https://img.shields.io/badge/atabook-♡%20-5A6678?labelColor=896D7D" alt="" />
+    <img src="https://img.shields.io/badge/atabook-♡%20-896D7D?labelColor=5A6678" alt="" />
   </a>
 </p>
