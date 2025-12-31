@@ -7,6 +7,6 @@
 </p>
 <p align="center">
   <a href="https://cipher.atabook.org">
-    <img src="https://img.shields.io/badge/atabook-♡%20-896D7D?labelColor=5A6678" alt="" />
+    <img src="https://img.shields.io/badge/ata-book%20-896D7D?labelColor=5A6678" alt="" />
   </a>
 </p>
