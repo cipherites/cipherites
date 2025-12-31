@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cipherites&label=♡&color=B67B80" alt="" />
+  <img src="https://komarev.com/ghpvc/?username=cipherites&label=♡&color=BB050B" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1455501331723845734/Untitled1727_20251230170027.png?ex=6954f4bf&is=6953a33f&hm=81bd0760a0c16dbcb8c5dcc5447c884790766bb1a17348e81a060b58f99ed18b&" alt="" width="250">
+  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1455731123672977408/Untitled1740_20251231081145.png?ex=6955cac2&is=69547942&hm=b1c36774b9fa823b3c03dd931614850532349ac88c399277822f93494d7d44c4&" alt="" width="250">
 </p>
 <p align="center">
   <a href="https://cipher.atabook.org">
-    <img src="https://img.shields.io/badge/ata-book%20-5A5E76?labelColor=836D7C" alt="" />
+    <img src="https://img.shields.io/badge/ata-book%20-000000?labelColor=6D0108" alt="" />
   </a>
 </p>
