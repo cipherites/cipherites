@@ -3,10 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/view/vox-valentino-hazbin-hotel-voxval-staticmoth-gif-13731079281431457413" alt="" width="250">
-</p>
-<p align="center">
-  <a href="https://cipher.atabook.org">
-    <img src="https://img.shields.io/badge/ata-book%20-blue?labelColor=red" alt="" />
-  </a>
+  <img src="https://tenor.com/view/hazbin-hotel-valentino-lip-bite-gif-3243132820565891015" alt="" width="250">
 </p>
