@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1457027093895319642/hazbin-hotel-valentino.gif?ex=695a81b9&is=69593039&hm=93929b1d5977bcd56dbc311b187c46b375184ee41e7181ea7175fa724ab0b7ad&" alt="" width="250">
+  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1457030004910329867/vox-valentino.webp?ex=695a846f&is=695932ef&hm=44b4b3971cb8cf86dfc32bcf6d336b4f8df41caaa4fc441cf41f62f7b3c1b797&" alt="" width="100">
 </p>
