@@ -8,4 +8,4 @@
   </a>
 </p>
 
-<p align="center> ive been wanting to say this for a really long while but i got no courage to. but now i have, so, i dun like neither radiostatic nor radiosilence, i do not want to discuss any topic that has the following ship, so please bear with it. shippers are free to int, i promise i do not care about what you ship, i am friends with alot of radiostatic shippers so its not really a big deal for me. it's just that i'd rather not talk about it, other than that we're perfectly fine
+<p align="center"> ive been wanting to say this for a really long while but i got no courage to. but now i have, so, i dun like neither radiostatic nor radiosilence, i do not want to discuss any topic that has the following ship, so please bear with it. shippers are free to int, i promise i do not care about what you ship, i am friends with alot of radiostatic shippers so its not really a big deal for me. it's just that i'd rather not talk about it, other than that we're perfectly fine
