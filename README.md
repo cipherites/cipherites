@@ -3,7 +3,7 @@
 </p>
 <p align="center">  <a href="https://rentry.co/cipherites">read byi</a></p>
 <p align="center">
-  <a href="https://x.com/i/status/2000650111257596343">
-    <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1458317551720333490/Untitled1752_20260107123147.png?ex=6960850e&is=695f338e&hm=3deb8e6778794439955399cb91688cc080d333183ef3bb672b05bb37d7392baf&" alt="" width="200">
+  <a href="https://x.com/i/status/2011500477423505903">
+    <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1461237705982738473/Untitled1761_20260115135632.png?ex=6969d329&is=696881a9&hm=e552a90939d7774ac24f23f235951ad422bc53fdb1dc4dd7032ad8a5720c2d82&" alt="" width="200">
   </a>
 </p>
