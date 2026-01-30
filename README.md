@@ -6,7 +6,3 @@
   </a>
 </p>
 
-<p align="center">those indonesians on safe server sounds like this sometimes
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1464530434741239963/IMG_20260124_160046.jpg?ex=6975cdc1&is=69747c41&hm=81412baa55ece69ee4b114d1a3308636b3ea48b5ccbe00eaf612b0515e93e330&" alt="">
-</p>
