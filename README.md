@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1467397218318422077/f1aa0c67-ba85-4ab8-85b1-26fc4cf086c0_removalai_preview.png?ex=69803ba7&is=697eea27&hm=dc90e29c0fd690fb07bb7174aa744e7c62e41ec99986f00f2312208d77c90e7b&" alt="" width="70">
-</p>
+  <img src="https://komarev.com/ghpvc/?username=cipherites&label=✦&color=grey" alt="" />
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cipherites&label=⠀🥄⠀&color=grey" alt="" />
-<p align="center"> read rentry byi
+  <a href="https://x.com/i/status/1841929228419530773">
+    <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1448899587673690243/Untitled1707_20251212124922.png?ex=69802ce4&is=697edb64&hm=8f2d5fc1a8c0fb3918e6550f48ee68f22488df83fc6cbc24a22d619801104bb1&" alt="" width="200">
+  </a>
