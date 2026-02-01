@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cipherites&label=✦&color=grey" alt="" />
 <p align="center">
-  <a href="https://voxval.atabook.org">ata</a> ·
+  <a href="https://voxval.atabook.org">ata</a> ⠀⠀⠀⠀
   <a href="https://rentry.co/voxvals">rentry</a>
 </p>
 <p align="center"> read rentry byi
