@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cipherites&label=✦&color=grey" alt="" />
 <p align="center">
-  <a href="https://x.com/i/status/2013816288687333824">
-    <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1467509271355854930/Untitled1790_20260201211740.png?ex=6980a403&is=697f5283&hm=2d63d31d9a1e05c9306b7871585a7a7a054e675b0978b0a036488e65cb47e8fb&" alt="" width="200">
+  <a href="https://x.com/i/status/2015093223618957617">
+    <img src="https://cdn.discordapp.com/attachments/1062717625764950068/1469626996240809984/1000569098-Photoroom.png?ex=6988584c&is=698706cc&hm=6e939a2709a28942a614bf4a4ac9ca9811e38cd5264ee06f692db2fdf7eb9e42&" alt="" width="150">
   </a>
