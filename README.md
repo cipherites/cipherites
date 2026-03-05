@@ -3,4 +3,4 @@
   
 <p align="center"> "Cipherites" refers to people who are followers, members, or devotees of something called “Cipher.”
 
-Dis is referring to Bill Cipher, im not in a cult or samtin
+Dis is referring to Bill Cipher, im not in a cult or anytin
