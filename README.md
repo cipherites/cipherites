@@ -2,7 +2,7 @@
  
   
 <p align="center">
-  <img src="https://files.catbox.moe/bhjwxa.png" alt="" width="150">
+  <img src="https://files.catbox.moe/4xgewg.png" alt="" width="150">
 </p>
 <p align="center">
   <a href="https://rentry.co/cookiecrumb">RENTRY</a> ⠀
