@@ -2,16 +2,16 @@
 
  <p align="center">
   <a href="https://voxval.atabook.org">
-    <img src="https://files.catbox.moe/ab1blh.png" width="90">
+    <img src="https://files.catbox.moe/ab1blh.png" width="80">
   </a>
-  > ♡ <
+  ⠀ ♡ ⠀
   <a href="https://rentry.co/inseparable">
-    <img src="https://files.catbox.moe/0ruf61.png" width="90">
+    <img src="https://files.catbox.moe/0ruf61.png" width="80">
   </a>
  </p>
   
 <p align="center">
-  <img src="https://files.catbox.moe/c3akom.gif" alt="" width="200">
+  <img src="https://files.catbox.moe/c3akom.gif" alt="" width="150">
 </p>
 
 <p align="center">
