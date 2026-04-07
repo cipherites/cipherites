@@ -1,12 +1,17 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cipherites&label=⠀★⠀&color=grey" alt="" /> 
 
  <p align="center">
-  <a href="https://cipher.atabook.org">atabuk</a> ⠀ଘ( ິ•ᆺ• )ິଓ⠀
-  <a href="https://rentry.co/inseparable">match</a>
-</p>
+  <a href="https://voxval.atabook.org">
+    <img src="https://files.catbox.moe/ab1blh.png" width="90">
+  </a>
+  > ♡ <
+  <a href="https://rentry.co/inseparable">
+    <img src="https://files.catbox.moe/0ruf61.png" width="90">
+  </a>
+ </p>
   
 <p align="center">
-  <img src="https://files.catbox.moe/c3akom.gif" alt="" width="150">
+  <img src="https://files.catbox.moe/c3akom.gif" alt="" width="200">
 </p>
 
 <p align="center">
