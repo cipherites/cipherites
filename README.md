@@ -3,5 +3,5 @@
   <a href="https://rentry.co/inseparable">match</a>
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/ey7ny9.png" alt="" width="150">
+  <img src="https://files.catbox.moe/ey7ny9.png" alt="" width="250">
 </p>
