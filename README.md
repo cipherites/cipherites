@@ -3,6 +3,6 @@
   <a href="https://rentry.co/inseparable">match</a>
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/4j7nbd.png" alt="" width="300">
+  <img src="https://files.catbox.moe/rknil3.webp" alt="" width="100">
 </p>
 
