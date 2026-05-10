@@ -1,8 +1,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cipherites&label=⠀crimes⠀committed⠀&color=grey" alt="" /> 
 <p align="center">
-  <a href="https://rentry.co/inseparable">match</a>
+  <a href="https://rentry.co/inseparable">MI MAFIA GANG ♡ </a>
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/q9aftj.png" alt="" width="150">
+  <img src="https://files.catbox.moe/eedkxi.png" alt="" width="200">
 </p>
 
