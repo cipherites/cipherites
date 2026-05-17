@@ -4,6 +4,6 @@
 </p>
 <p align="center">
   <a href="https://voxval.atabook.org/">新BOOK</a> ⠀⠀
-  <a href="https://mafiarecord.straw.page/">MAFIARECORD♡</a> ⠀⠀
+  <a href="https://mafiarecord.straw.page/">MAFIA♡RECORD</a> ⠀⠀
   <a href="https://rentry.co/cipherites">RENTRY</a>
 </p>
