@@ -9,6 +9,6 @@
   <sub>
     <a href="https://voxval.atabook.org">新BOOK</a> ⠀⠀
     <a href="https://mafiarecord.straw.page/">MAFIA♡RECORD</a> ⠀⠀
-    <a href="https://rentry.co/cipherites">RENTRY</a>
+    <a href="https://listography.com/cipherites">LISTO</a>
   </sub>
 </p>
