@@ -1,9 +1,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cipherites&label=♡&color=484182" alt="" /> 
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/ru3m81.png" alt="" width="250">
-  <img src="https://files.catbox.moe/ux4zan.png" alt="" width="200">
-<p align="center">
+<img src="https://files.catbox.moe/ux4zan.png" width="200"><br>
+<img src="https://files.catbox.moe/ru3m81.png" width="200">
+</p>
 <p align="center">
   <sub>
     <a href="https://voxval.atabook.org">新BOOK</a> ⠀⠀
