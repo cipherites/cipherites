@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cipherites&label=♡&color=484182" alt="" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cipherites&label=♡&color=F5D1DA" alt="" /> 
 </p>
 <p align="center">
 <img src="https://files.catbox.moe/ux4zan.png" width="200"><br>
