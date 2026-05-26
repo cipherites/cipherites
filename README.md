@@ -1,11 +1,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cipherites&label=♡&color=F5D1DA" alt="" /> 
 </p>
 <p align="center">
-<img src="https://files.catbox.moe/iudzfz.png" width="300"><br>
+<img src="https://files.catbox.moe/conjsa.png" width="300"><br>
 </p>
 <p align="center">
   <sub>
-  hi jokes aside u guys can still call me ciph, cipher, cipherites, or anything else you prefer ♡ </sub>
+  PEOPLE WHO CANT SPELL CIPHERITES RIGHT: @CannibalsHunger @Deerbites @Astrxid and ELLIE </sub>
 <p align="center">
   <sub>
     <a href="https://voxval.atabook.org">新BOOK</a> ⠀⠀
