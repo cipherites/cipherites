@@ -10,4 +10,4 @@
 ⠀
 ⠀
 ⠀
-<p align="center"> SUPER SERIOUS DNI: dni if you think whizzvin is radiostatic coded bye 
+<p align="center"> SUPER SERIOUS DNI: dni if you think radiostatic is whizzvin coded bye 
