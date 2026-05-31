@@ -12,4 +12,4 @@
 </p>
 ⠀
 ⠀
-<p align="center"> SUPER SERIOUS DNI: dni if you think radiostatic is whizzvin coded bye 
+<p align="center"> cipherites is full of joy and whimsy
