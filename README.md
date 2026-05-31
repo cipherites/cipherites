@@ -7,7 +7,9 @@
     <a href="https://rentry.co/cipherites">RENTRY</a>
   </sub>
 </p>
-⠀
+<p align="center">
+  <img src="https://files.catbox.moe/jksmxg.jpg" width="300">
+</p>
 ⠀
 ⠀
 <p align="center"> SUPER SERIOUS DNI: dni if you think radiostatic is whizzvin coded bye 
