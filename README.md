@@ -8,7 +8,7 @@
   </sub>
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/jksmxg.jpg" width="300">
+  <img src="https://files.catbox.moe/jksmxg.jpg" width="250">
 </p>
 ⠀
 ⠀
