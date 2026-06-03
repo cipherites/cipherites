@@ -12,4 +12,4 @@
 </p>
 ⠀
 ⠀
-<p align="center"> cipherites is full of joy and whimsy
+<p align="center"> no inspo
