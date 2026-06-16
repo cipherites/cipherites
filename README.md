@@ -2,7 +2,7 @@
 </p>
 <p align="center"> no inspo
 <p align="center">
-  <img src="https://files.catbox.moe/0n6t0i.png" width="200">
+  <img src="https://files.catbox.moe/qfgz34.png" width="150">
 </p>
 <p align="center">
   <sub>
