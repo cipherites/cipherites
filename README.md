@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://files.catbox.moe/zq95zh.jpg" width="350">
 </p>
-<p align="center"> aww nero-san so nicee aww 🥺🥺🥺nero-san so niceeee awwww
+<p align="center"> aww nero-san so nicee aww 🥺🥺🥺nero-san so niceeee awwww 🥺🥺🥺so innocent 🥺🥺🥺
 <p align="center">
   <sub>
     <a href="https://voxval.atabook.org">新BOOK</a> ⠀⠀
