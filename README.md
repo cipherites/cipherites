@@ -2,8 +2,9 @@
 </p>
 <p align="center"> no inspo
 <p align="center">
-  <img src="https://files.catbox.moe/hnl71m.gif" width="230">
+  <img src="https://files.catbox.moe/zq95zh.jpg" width="350">
 </p>
+<p align="center"> aww nero-san so nicee aww 🥺🥺🥺nero-san so niceeee awwww
 <p align="center">
   <sub>
     <a href="https://voxval.atabook.org">新BOOK</a> ⠀⠀
