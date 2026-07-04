@@ -2,7 +2,7 @@
 </p>
 <p align="center">
   <a href="https://voxval.atabook.org/">新BOOK</a> ⠀⠀
-  <a href="https://github.com/cipherites">MAIN</a> ⠀⠀
+  <a href="https://mafiarecord.straw.page/">♡</a> ⠀⠀
   <a href="https://rentry.co/cipherites">RENTRY</a>
 </p>
 <p align="center">
