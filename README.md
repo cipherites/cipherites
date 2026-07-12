@@ -7,5 +7,5 @@
   <a href="https://rentry.co/cipherites">RENTRY</a>
 </p>
 <p align="center">
-  <img src="https://file.garden/adyaWBdfCBC6Cnua/IMG_20260704_172607.jpg" width="300">
+  <img src="https://file.garden/adyaWBdfCBC6Cnua/c983f528239b8b3abde02c922cf102e6.jpg" width="300">
 </p>
