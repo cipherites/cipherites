@@ -19,10 +19,8 @@
 ⠀
 ⠀
 <p align="center">
-  <img src="https://file.garden/adyaWBdfCBC6Cnua/IMG_20260719_180002.png" alt="" width="300">
-</p>
-<p align="center">
-  <img src="https://file.garden/adyaWBdfCBC6Cnua/Untitled2151_20260719175733.png" alt="" width="300">
+<img src="https://file.garden/adyaWBdfCBC6Cnua/IMG_20260719_180002.png" width="300"><br>
+<img src="https://file.garden/adyaWBdfCBC6Cnua/IMG_20260719_180455.png" width="300">
 </p>
 <p align="center">
   <img src="https://file.garden/adyaWBdfCBC6Cnua/Untitled2155_20260719175744.png" alt="" width="300">
