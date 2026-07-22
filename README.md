@@ -7,5 +7,5 @@
 <p align="center">
   <img src="https://file.garden/adyaWBdfCBC6Cnua/Untitled2155_20260719175744.png" alt="" width="50">
 </p>
-<p align="center"> <sub> ENTP EN(T) ILE 7w6 sx783 sx/so LEVF S[L]ue/I/ m|O|HixrG Sanguine-Choleric Chaotic Neutral
-<p align="center"> <sub> valastor nonsharing selfshipper
+<p align="center"> <sub> ENTP EN(T) ILE 7w6 sx783 sx/so
+<p align="center"> <sub> LEVF S[L]ue/I/ m|O|HixrG Sanguine-Choleric Chaotic Neutral
