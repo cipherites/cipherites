@@ -2,7 +2,7 @@
 </p>
 <p align="center"> <sub> do not inspo my ponies
 <p align="center">
-  <img src="https://file.garden/adyaWBdfCBC6Cnua/Untitled2174_20260804194843.png" alt="" width="250">
+  <img src="https://file.garden/adyaWBdfCBC6Cnua/Untitled2187_20260816015553.png" alt="" width="250">
 </p>
 <p align="center"> <sub> ile 7w6 sx783 sx/so
   <p align="center">
